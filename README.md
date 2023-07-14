@@ -1,3 +1,3 @@
-# DAA-Project
+# Image-quilting
 
 ### GRAPHCUT IMAGES
