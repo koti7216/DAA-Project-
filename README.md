@@ -1,6 +1,11 @@
 # Image-quilting
+Implemented image quilting texture synthesis on an image to generate large images.
 
 ### GRAPHCUT IMAGES
+
+### Implementation rules :
+I added both the ford fulkerson and Edmonds Karp algorithms in this code. So we have to run separately. For using Edmonds Kato algorithm don’t run ford fulkerson cell. Add image path and run cells one by one. 
+Then we get required output.
 
 ##### Input image:
 ![quilt](https://user-images.githubusercontent.com/97489851/165438374-e5cb1772-6555-4d1e-989f-3afb6f846eac.jpeg)
